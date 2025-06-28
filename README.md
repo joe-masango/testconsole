@@ -1,6 +1,5 @@
 # TestConsole Application
-
-# This is a simple console application that demonstrates basic functionality.
+### This is a simple console application that demonstrates basic functionality.
 
 ## Project Structure
 
