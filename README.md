@@ -3,4 +3,13 @@
 
 ## Project Structure
 
-- DateTimes: Contains classes for handling date and time operations.
+- Dates: Contains classes for handling date and time operations.
+- Strings: Contains classes for string manipulation and formatting.
+- Oops: Contains classes that demonstrate object-oriented programming concepts.
+- Databases: Contains classes for database operations and interactions.
+	- SQLite: Contains classes for SQLite database operations.
+	- Oracle: Contains classes for Oracle database operations.
+	- SQLServer: Contains classes for SQL Server database operations.
+	- MySQL: Contains classes for MySQL database operations.
+	- PostgreSQL: Contains classes for PostgreSQL database operations.
+	- MongoDB: Contains classes for MongoDB database operations.
