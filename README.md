@@ -6,6 +6,9 @@
 - Dates: Contains classes for handling date and time operations.
 - Strings: Contains classes for string manipulation and formatting.
 - Oops: Contains classes that demonstrate object-oriented programming concepts.
+	- BankAccount: Contains classes related to bank account operations.
+	- Animal: Contains classes related to animal operations.
+	- Developer: Contains classes related to developer operations.
 - Databases: Contains classes for database operations and interactions.
 	- SQLite: Contains classes for SQLite database operations.
 	- Oracle: Contains classes for Oracle database operations.
