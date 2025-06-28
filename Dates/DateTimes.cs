@@ -1,4 +1,4 @@
-﻿namespace TestConsole.DateTimes;
+﻿namespace Dates;
 
 public class DateTimes
 {
